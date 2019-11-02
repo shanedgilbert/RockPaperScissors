@@ -1,0 +1,29 @@
+.title {
+    font-size: 350%;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 250%;
+    text-align: center;
+}
+
+.gameBtn {
+    text-align: center;
+}
+
+.playBtn {
+    width: 250px;
+    height: 150px;
+    font-size: 200%;
+}
+
+.matchResult {
+    font-size: 200%;
+    text-align: center;
+}
+
+.winner {
+    font-size: 250%;
+    text-align: center;
+}
